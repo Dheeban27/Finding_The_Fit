@@ -1,0 +1,5102 @@
+[
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Pants-id_00002534-04_1_front.jpg",
+  "attrs": {
+   "subcategory": "PANTS",
+   "color": "BROWN",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007397-04_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "GRAY",
+   "top_length": "ANKLE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00001192-07_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00004765-46_2_side.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "YELLOW",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00004470-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "LIGHTBLUE",
+   "top_length": "HIP",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006858-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "THIGH",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Shorts-id_00003949-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "OLIVE",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00000842-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "COAT",
+   "color": "BLACK",
+   "top_length": "KNEE",
+   "sleeve_length": "SHORT",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00000463-06_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "SQUARE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00005521-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLUE",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "FLORAL",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003953-04_4_full.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLUE",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00003045-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "OLIVE",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00005817-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "DARKGRAY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00000896-06_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002422-08_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006665-04_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00002721-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007786-06_2_side.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00000486-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BEIGE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00003924-05_3_back.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "WHITE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004273-04_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "DARKGRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003935-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "OTHER",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweatshirts_Hoodies-id_00006673-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "HOODIE",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Shorts-id_00007375-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "ORANGE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00002873-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "KNIT",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002904-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007740-04_4_full.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BEIGE",
+   "top_length": "THIGH",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00003191-09_3_back.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "PINK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00004336-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BEIGE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00001808-04_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Graphic_Tees-id_00007423-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "DARKGRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00002809-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006331-04_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLUE",
+   "top_length": "THIGH",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006489-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00007438-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "JUMPSUIT",
+   "color": "BLUE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00004006-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006242-11_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004313-05_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002201-08_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "GREEN",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00005254-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000871-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "KNIT",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00001219-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "PURPLE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "FULL",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007356-04_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "PURPLE",
+   "top_length": "KNEE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Pants-id_00000571-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "PANTS",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005499-08_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00002388-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00001914-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007265-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BROWN",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "FLORAL",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Shorts-id_00003092-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00001121-06_3_back.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "RED",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shirts_Polos-id_00004514-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "SHIRT",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "FLORAL",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007336-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00002921-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003343-06_2_side.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BLACK",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003659-07_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00004679-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "BEIGE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "FULL",
+   "button": "FULL",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Denim-id_00000089-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "JEANS",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007634-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00007852-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00005681-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "JUMPSUIT",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00004496-06_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "RED",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00002411-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00001495-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweatshirts_Hoodies-id_00007240-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "SWEATSHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Graphic_Tees-id_00005195-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "OLIVE",
+   "top_length": "THIGH",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "TRUE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003194-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002957-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "OLIVE",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00003762-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "THIGH",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00005024-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001614-04_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00005064-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002162-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003397-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00007301-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00006610-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "LIGHTBLUE",
+   "top_length": "HIP",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Graphic_Tees-id_00002369-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000026-07_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001028-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Graphic_Tees-id_00006434-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003835-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00007532-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Shorts-id_00001913-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00000324-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "OLIVE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00000702-07_7_additional.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "DARKGRAY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "STANDING",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweatshirts_Hoodies-id_00006265-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "SWEATSHIRT",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "OTHER",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00003005-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweatshirts_Hoodies-id_00001144-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "SWEATSHIRT",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00005562-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002540-07_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "YELLOW",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00006849-05_1_front.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00000377-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BROWN",
+   "top_length": "ANKLE",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00000474-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00003235-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "BEIGE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006197-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "HALF",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006791-05_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "ORANGE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004386-04_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BEIGE",
+   "top_length": "NONE",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003278-03_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "THIGH",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00001059-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00006068-05_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLUE",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00006325-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00004749-04_7_additional.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "GRAY",
+   "top_length": "ANKLE",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Jackets_Vests-id_00002754-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "NAVY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweatshirts_Hoodies-id_00002315-10_2_side.jpg",
+  "attrs": {
+   "subcategory": "HOODIE",
+   "color": "RED",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006674-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "GRAY",
+   "top_length": "KNEE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007343-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweatshirts_Hoodies-id_00005799-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "HOODIE",
+   "color": "DARKGRAY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006900-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00004344-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00000475-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "COAT",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003776-05_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Jackets_Vests-id_00003311-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "LEATHER",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00005437-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "JUMPSUIT",
+   "color": "BLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005181-05_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "PURPLE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00002866-04_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006843-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "RED",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000075-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "OTHER",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004142-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00006626-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003701-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shirts_Polos-id_00000846-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "SHIRT",
+   "color": "BLACK",
+   "top_length": "HIP",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001789-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00002603-06_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "OLIVE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00000506-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "ORANGE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006342-06_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "RED",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00000344-05_1_front.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00005160-13_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "GREEN",
+   "top_length": "KNEE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00002293-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00006282-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "RED",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00005535-05_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BEIGE",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001743-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00004955-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLUE",
+   "top_length": "HIP",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003910-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shorts-id_00003769-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000020-05_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shorts-id_00005151-06_1_front.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "LIGHTBLUE",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "DENIM",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00001124-04_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "ORANGE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00002121-05_7_additional.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "DARKGRAY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00003214-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "PURPLE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Suiting-id_00000932-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "BLAZER",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00003424-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004236-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "KNEE",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00005493-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005702-12_3_back.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00001562-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "BLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003399-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "DENIM",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00007982-11_2_side.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "BLUE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003398-04_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00003555-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "NAVY",
+   "top_length": "HIP",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Shorts-id_00006025-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "DARKGRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006665-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLUE",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00002899-04_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00007224-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00004117-08_4_full.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "OLIVE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000198-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00002680-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00003139-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00004451-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "BLACK",
+   "top_length": "KNEE",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SQUARE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007684-08_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "DARKGRAY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00004181-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "RED",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003361-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "PINK",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00005233-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00001297-03_2_side.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "THIGH",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00006201-07_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "ORANGE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00003190-06_2_side.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007920-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "WHITE",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00007889-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "JUMPSUIT",
+   "color": "BLUE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "DENIM",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00001584-03_2_side.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "BLUE",
+   "top_length": "HIP",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003405-06_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00005997-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "DENIM",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00004490-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "BEIGE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00001121-05_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00005434-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "GRAPHIC",
+   "neckline": "STANDING",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00005277-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "LEATHER",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweatshirts_Hoodies-id_00002194-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "SWEATSHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007561-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLUE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007385-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002906-06_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001480-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006713-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "PINK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweatshirts_Hoodies-id_00007804-12_2_side.jpg",
+  "attrs": {
+   "subcategory": "HOODIE",
+   "color": "RED",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweatshirts_Hoodies-id_00000428-05_1_front.jpg",
+  "attrs": {
+   "subcategory": "HOODIE",
+   "color": "DARKGRAY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "HALF",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003375-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00004113-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00001919-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Graphic_Tees-id_00000349-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "OLIVE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006995-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006866-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00005252-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "BROWN",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "OTHER",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001169-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "GRAY",
+   "top_length": "HIP",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00001839-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00002826-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00001777-06_1_front.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "STANDING",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00004573-05_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004971-08_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Skirts-id_00004719-14_4_full.jpg",
+  "attrs": {
+   "subcategory": "SKIRT",
+   "color": "BLUE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006198-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007137-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002732-06_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "PINK",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Skirts-id_00003513-05_4_full.jpg",
+  "attrs": {
+   "subcategory": "SKIRT",
+   "color": "NAVY",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003523-48_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "PINK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00003038-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002201-23_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "LIGHTBLUE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweatshirts_Hoodies-id_00005101-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "SWEATSHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00004175-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "BLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00004801-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00005091-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00006424-05_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Skirts-id_00004220-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "SKIRT",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "LEATHER",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007667-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "DENIM",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00007471-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Graphic_Tees-id_00007281-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00005923-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BEIGE",
+   "top_length": "HIP",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shirts_Polos-id_00005004-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "SHIRT",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00001056-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005899-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "DARKGRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00001581-09_1_front.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00002385-03_3_back.jpg",
+  "attrs": {
+   "subcategory": "JUMPSUIT",
+   "color": "RED",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Denim-id_00004714-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "JEANS",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Shorts-id_00005989-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00007630-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "BLACK",
+   "top_length": "KNEE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Skirts-id_00004922-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "SKIRT",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003315-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00006080-05_2_side.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "BEIGE",
+   "top_length": "KNEE",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "GRAPHIC",
+   "neckline": "STANDING",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00001481-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "NAVY",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005435-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BROWN",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007713-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "PINK",
+   "top_length": "HIP",
+   "sleeve_length": "HALF",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00007402-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BEIGE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shirts_Polos-id_00000925-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "POLO SHIRT",
+   "color": "OLIVE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Shorts-id_00005999-05_4_full.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "DARKGRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005083-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "STANDING",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001212-27_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "GRAY",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Jackets_Vests-id_00005943-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004132-04_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BROWN",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007751-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00001602-03_4_full.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "OLIVE",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003776-04_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "NAVY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00004700-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "PINK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001026-07_3_back.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "OLIVE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "OTHER",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004832-06_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00002914-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "LIGHTBLUE",
+   "top_length": "NONE",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "HALF",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00007806-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "FLORAL",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00005647-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "OLIVE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "FLORAL",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003276-06_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "WHITE",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00002222-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "KNIT",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00002162-19_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "YELLOW",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00006015-04_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "KNIT",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00003741-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00000390-14_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "YELLOW",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00002049-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "FULL",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00004238-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00004530-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BLACK",
+   "top_length": "KNEE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweatshirts_Hoodies-id_00005755-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "HOODIE",
+   "color": "GRAY",
+   "top_length": "THIGH",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "HALF",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00004736-08_2_side.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "YELLOW",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00005367-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "COAT",
+   "color": "DARKGRAY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00003779-02_4_full.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "HIP",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Sweaters-id_00001463-05_1_front.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "OLIVE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00005746-04_2_side.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "OLIVE",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003523-49_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "LIGHTBLUE",
+   "top_length": "THIGH",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "V-NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00002799-04_1_front.jpg",
+  "attrs": {
+   "subcategory": "SHIRT",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Skirts-id_00001473-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "SKIRT",
+   "color": "WHITE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Jackets_Coats-id_00003012-04_2_side.jpg",
+  "attrs": {
+   "subcategory": "JACKET",
+   "color": "PINK",
+   "top_length": "NONE",
+   "sleeve_length": "HALF",
+   "fabric": "LEATHER",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Skirts-id_00001911-06_4_full.jpg",
+  "attrs": {
+   "subcategory": "SKIRT",
+   "color": "BLACK",
+   "top_length": "KNEE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "STANDING",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shorts-id_00005086-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "SHORTS",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Pants-id_00004526-02_1_front.jpg",
+  "attrs": {
+   "subcategory": "PANTS",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Cardigans-id_00002511-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "CARDIGAN",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND NECK",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00002649-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Rompers_Jumpsuits-id_00000314-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "ROMPER",
+   "color": "PINK",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00007466-09_1_front.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "DARKGRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000979-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "FLORAL",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00007542-06_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "NAVY",
+   "top_length": "THIGH",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00007165-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "TRUE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005181-05_3_back.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "PURPLE",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shirts_Polos-id_00004194-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "SHIRT",
+   "color": "NAVY",
+   "top_length": "HIP",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00003455-02_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00004530-07_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "WHITE",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00003947-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00004711-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "COLOR_BLOCK",
+   "neckline": "SUSPENDERS",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Leggings-id_00000648-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "LEGGINGS",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Shirts_Polos-id_00004293-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "SHIRT",
+   "color": "BLACK",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Graphic_Tees-id_00005627-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "LIGHTBLUE",
+   "top_length": "THIGH",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00006704-04_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "NAVY",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00001724-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BEIGE",
+   "top_length": "WAIST",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005269-07_3_back.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "YELLOW",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000365-06_7_additional.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005290-01_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "WHITE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00006587-01_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "NAVY",
+   "top_length": "HIP",
+   "sleeve_length": "HALF",
+   "fabric": "CHIFFON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Sweaters-id_00002635-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "SWEATER",
+   "color": "GRAY",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "KNIT",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005328-03_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "RED",
+   "top_length": "HIP",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "KNIT",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00000365-06_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "RED",
+   "top_length": "WAIST",
+   "sleeve_length": "HALF",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005702-12_4_full.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "LIGHTBLUE",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00001910-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "GRAY",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "CHECK",
+   "neckline": "LAPEL",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "TRUE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00005310-06_3_back.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "FULL",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00004525-02_7_additional.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "NAVY",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00006076-01_3_back.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "RED",
+   "top_length": "NONE",
+   "sleeve_length": "LONG",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Dresses-id_00002430-06_2_side.jpg",
+  "attrs": {
+   "subcategory": "DRESS",
+   "color": "ORANGE",
+   "top_length": "ANKLE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00003508-02_2_side.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "BEIGE",
+   "top_length": "NONE",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/MEN-Tees_Tanks-id_00003458-01_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "BLACK",
+   "top_length": "WAIST",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "GRAPHIC",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "TRUE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Blouses_Shirts-id_00005774-03_1_front.jpg",
+  "attrs": {
+   "subcategory": "BLOUSE",
+   "color": "WHITE",
+   "top_length": "HIP",
+   "sleeve_length": "LONG",
+   "fabric": "CHIFFON",
+   "printing": "SOLID",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "NONE",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003667-01_7_additional.jpg",
+  "attrs": {
+   "subcategory": "TANK TOP",
+   "color": "GRAY",
+   "top_length": "WAIST",
+   "sleeve_length": "SLEEVELESS",
+   "fabric": "COTTON",
+   "printing": "SOLID",
+   "neckline": "NONE",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "FALSE"
+  }
+ },
+ {
+  "image": "dataset/DeepFashion_MultiModal/images/WOMEN-Tees_Tanks-id_00003509-04_2_side.jpg",
+  "attrs": {
+   "subcategory": "T-SHIRT",
+   "color": "NAVY",
+   "top_length": "NONE",
+   "sleeve_length": "SHORT",
+   "fabric": "COTTON",
+   "printing": "STRIPE",
+   "neckline": "ROUND",
+   "zip_up": "NONE",
+   "button": "HALF",
+   "collar": "FALSE",
+   "hood": "FALSE",
+   "pocket": "TRUE"
+  }
+ }
+]

@@ -1,0 +1,27 @@
+services:
+  stylefinder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: clothing_retrieval_service
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      # Mount heavy model checkpoints, dataset images, and pre-computed index
+      - ./ckpt_stage1:/app/ckpt_stage1
+      - ./ckpt_stage2_b:/app/ckpt_stage2_b
+      - ./dataset:/app/dataset
+      - ./s2s_eval:/app/s2s_eval
+      - ./cir_index.pt:/app/cir_index.pt
+    # Enable NVIDIA GPU support if NVIDIA Container Toolkit is installed
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+

@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Large dataset & model files (too big for GitHub)
+dataset/
+crops/
+s2s_eval/
+annotations/
+ckpt_stage1/
+ckpt_stage2_b/
+cir_index.pt
+*.pth
+
+# Cloudflare binary
+cloudflared.exe
+
+# Logs & temp
+tunnel_url.log
+uploads/
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
