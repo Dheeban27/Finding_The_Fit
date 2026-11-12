@@ -21,6 +21,10 @@ ckpt_stage2_b/
 cir_index.pt
 *.pth
 
+# Documents & presentations
+*.pdf
+*.pptx
+
 # Cloudflare binary
 cloudflared.exe
 
@@ -36,3 +40,4 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
