@@ -23,7 +23,7 @@ from fastapi.responses import FileResponse, HTMLResponse, Response
 from transformers import AutoModel, AutoProcessor
 
 DEV = "cuda" if torch.cuda.is_available() else "cpu"
-CFG = {"img_model": "ckpt_stage2_b", "txt_model": "ckpt_stage1",
+CFG = {"img_model": "ckpt_stage2_b" if os.path.isdir("ckpt_stage2_b") else "ckpt_stage1", "txt_model": "ckpt_stage1",
        "gallery": ["s2s_test.json", "triplets_test.json", "dataset/male_fashion", "dataset/female_fashion"],
        "limit": 1500, "index": "cir_index.pt"}
 M = {}
